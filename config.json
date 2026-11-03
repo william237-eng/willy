@@ -12,7 +12,7 @@
       "settings": {
         "clients": [
           {
-            "id": "@kcorp1"
+            "id": "aaaa1111-bbbb-4ccc-8ddd-eeeeffff0000"
           }
         ],
         "decryption": "none"
@@ -23,7 +23,7 @@
         "security": "none",
 
         "wsSettings": {
-          "path": "/@kcorp237",
+          "path": "/@Tydiani10",
           "heartbeatPeriod": 20
         }
       }
