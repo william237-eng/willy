@@ -1,4 +1,4 @@
-name: Build and Push willy
+name: Build and Push Willy
 
 on:
   push:
